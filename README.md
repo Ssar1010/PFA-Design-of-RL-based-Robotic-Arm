@@ -43,7 +43,7 @@ model.policy.eval()
 generate_dynamic_gif(env, model, filename="arm_dynamic.gif", n_targets=5)
 ```
 <p align="center">
-  <img src="arm_dynamic.gif" width="800" alt="DQN 2-DOF Robotic Arm Demo">
+  <img src="main/Results/image.png" width="700" alt="Results Image">
 </p>
 
 ---
