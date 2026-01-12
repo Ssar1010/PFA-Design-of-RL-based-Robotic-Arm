@@ -12,6 +12,10 @@ Key features:
 - Logging of episode rewards and a saved reward curve image
 - GIF generation to visualize multiple episodes (dynamic targets)
 
+<p align="center">
+  <img src="Results/image.png" width="700" alt="Results Image">
+</p>
+
 ---
 
 ## Quick Start
@@ -42,9 +46,6 @@ model.policy.eval()
 # Generate GIF showing multiple random targets
 generate_dynamic_gif(env, model, filename="arm_dynamic.gif", n_targets=5)
 ```
-<p align="center">
-  <img src="main/Results/image.png" width="700" alt="Results Image">
-</p>
 
 ---
 
