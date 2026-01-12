@@ -44,6 +44,7 @@ generate_dynamic_gif(env, model, filename="arm_dynamic.gif", n_targets=5)
 ```
 
 The GIF file `arm_dynamic.gif` is uploaded to GitHub releases.
+![System Architecture](main/arm_dynamic.gif)
 
 ---
 
