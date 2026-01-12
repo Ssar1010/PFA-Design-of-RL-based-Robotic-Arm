@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="arm_dynamic.gif" width="800" alt="DQN 2-DOF Robotic Arm Demo">
+</p>
 # 2-DOF Robotic Arm Control via DQN
 
 ![Demo](assets/gifs/arm_dynamic.gif)
