@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="arm_dynamic.gif" width="800" alt="DQN 2-DOF Robotic Arm Demo">
-</p>
 # 2-DOF Robotic Arm Control via DQN
 
-![Demo](assets/gifs/arm_dynamic.gif)
 ## Project Overview
 
 This repository implements a **2-degree-of-freedom (2-DOF) robotic arm controller** using **Deep Q-Networks (DQN)**. The agent learns to reach randomly placed targets (red balls) in a 2D workspace.
@@ -46,8 +42,9 @@ model.policy.eval()
 # Generate GIF showing multiple random targets
 generate_dynamic_gif(env, model, filename="arm_dynamic.gif", n_targets=5)
 ```
-
-The GIF file `arm_dynamic.gif` is uploaded to GitHub releases.
+<p align="center">
+  <img src="arm_dynamic.gif" width="800" alt="DQN 2-DOF Robotic Arm Demo">
+</p>
 
 ---
 
