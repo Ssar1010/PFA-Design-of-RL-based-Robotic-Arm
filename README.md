@@ -13,7 +13,7 @@ Key features:
 - GIF generation to visualize multiple episodes (dynamic targets)
 
 <p align="center">
-  <img src="Results/image.png" width="400" alt="Results Image">
+  <img src="Results/image.png" width="350" alt="Results Image">
 </p>
 
 ---
